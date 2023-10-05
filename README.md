@@ -1,16 +1,21 @@
-### Hi there 👋
 <img src="./img/Semplice Lavoro Banner LinkedIn.png">
-<!--
-**Montesi-Yuri/Montesi-Yuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello, Github Traveler! 🤙🏼🤙🏼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name's Yuri Montesi
+I started learning coding in April and I'm trying to improve everyday at it.
+
+🌐 At the moment my known languages are: 🌐
+
+- Html
+- Css
+- Sass
+- Javascript
+- Php
+
+⚙️ I usually work with these frameworks: ⚙️
+
+- Vue
+- Laravel
+- Tailwind
+- Bootstrap
