@@ -2,7 +2,7 @@
 
 ### Hello, Github Traveler! 🤙🏼🤙🏼
 
-My name's Yuri Montesi
+My name's Yuri
 I started learning coding in April and I'm trying to improve everyday at it.
 
 🌐 At the moment my known languages are: 🌐
