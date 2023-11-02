@@ -4,7 +4,7 @@
 
 My name's Yuri
 <br>
-I started learning coding in April and I'm trying to improve everyday at it.
+I started learning coding in April 2023 and I'm trying to improve everyday at it.
 
 🌐 At the moment my known languages are: 🌐
 
