@@ -2,7 +2,7 @@
 
 ### Hello, Github Traveler! 🤙🏼🤙🏼
 
-My name's Yuri;
+My name's Yuri
 <br>
 I started learning coding in April and I'm trying to improve everyday at it.
 
