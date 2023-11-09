@@ -21,4 +21,4 @@ I started learning coding in April 2023 and I'm trying to improve everyday at it
 - Tailwind      
 - Bootstrap     
 
-Here is my <a href="https://montesi-yuri.github.io">Portfolio</a> with some of my works.
+Here is my <a href="https://montesi-yuri.github.io" target="_blank">Portfolio</a> with some of my works.
